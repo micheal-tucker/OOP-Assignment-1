@@ -1,0 +1,4 @@
+# Local student data is plain text; keep it out of Git repositories.
+campus_results.csv
+campus_results.csv.tmp
+__pycache__/
