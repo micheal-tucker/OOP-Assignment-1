@@ -135,6 +135,7 @@ The example grade bands are A (80–100), B (70–79.9), C (60–69.9), D (50–
 ```text
 result_management.py   Python application
 README.md              Project guide and screenshot walkthrough
+LICENSE                MIT License
 .gitignore             Excludes local records and temporary files
 screenshots/           Captures for menu options 1–8 and 0
 campus_results.csv     Local data file created when the app saves
